@@ -1,22 +1,11 @@
-# Expense-Tracker-App-in-Asp.Net-Core-MVC
-This is an Expense Tracker App in Asp.Net Core MVC using SyncFusion Components.
+# External Authentication in ASP.NET Core MVC OAuth 2.0.
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi laborum amet minus recusandae!
 
-This is a complete Asp.Net Core application to demonstrate the building an enterprise application from scratch.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat ratione possimus eveniet suscipit eligendi optio.
 
-Discussed Points :
-Implemented CRUD Operation of Category & Transaction
-Grid with Paging & Sorting
-Dashboard with Chart Elements
-Side Menu within Dockable Side Bar
+Lorem, ipsum :
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Lorem ipsum dolor sit
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet consectetur
 Etc.
-
-
-
- ## How it works ?
- 
- :tv: Video tutorial on this same topic
- Url : https://youtu.be/zQ5eijfpuu8
- 
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=zQ5eijfpuu8
-" target="_blank"><img src="http://img.youtube.com/vi/zQ5eijfpuu8/0.jpg" 
-alt="Video demonstrating creation of an expense tracker application from scratch" width="500" height="400" border="10" /></a>
